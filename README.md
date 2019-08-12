@@ -22,6 +22,8 @@
 
 ## About freesewing
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/freesewing/freesewing.dev.svg)](https://greenkeeper.io/)
+
 FreeSewing is a free and open source library for made-to-measure sewing patterns.
 
 Try [the online demo](https://beta.freesewing.org/en/demo/) to *get it*.
